@@ -6,4 +6,5 @@ p {
   padding: auto}
 
 * {
-  max-width:auto;}
+  max-width:auto;
+  font-size: inherit;}
